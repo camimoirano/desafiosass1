@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,500&family=Work+Sans:ital,wght@0,300;1,300&display=swap");
+.header p {
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  color: white;
+}
+
+.card .card-title {
+  font-family: "Work Sans", sans-serif;
+  font-size: 1.5rem;
+  color: #101113;
+  font-weight: bold;
+}
+
+.card .card-text {
+  font-family: "Roboto", sans-serif;
+  font-size: .9rem;
+}
+
+.card .btn-primary {
+  background-color: lightblue;
+  color: #101113;
+  font-family: "Roboto", sans-serif;
+  font-size: .9rem;
+  font-weight: bold;
+}
+
+#footer {
+  height: 25vh;
+}
+
+#footer .webs {
+  font-family: "Work Sans", sans-serif;
+  font-size: 1.2rem;
+  list-style-type: none;
+}
+
+#footer .webs a {
+  text-decoration: none;
+  color: white;
+}

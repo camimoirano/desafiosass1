@@ -1,0 +1,40 @@
+.header{
+	p{
+		font-family: $font-secundaria;
+		font-size: 2rem;
+		color: white;
+	}
+}
+
+.card{
+	.card-title{
+		font-family: $font-principal;
+		font-size: 1.5rem;
+		color: #101113;
+		font-weight: bold;
+	}
+	.card-text{
+		font-family: $font-secundaria;
+		font-size: .9rem;
+	}
+	.btn-primary{
+		background-color: lightblue;
+		color: #101113;
+		font-family: $font-secundaria;
+		font-size: .9rem;
+		font-weight: bold;
+	}
+}
+
+#footer{
+	height: 25vh;
+	.webs{
+		font-family: $font-principal;
+		font-size: 1.2rem;
+		list-style-type:none;
+		a{
+			text-decoration: none;
+			color: white;
+		}
+	}
+}
